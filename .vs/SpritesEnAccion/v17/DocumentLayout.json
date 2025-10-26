@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\core\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\core\\application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\core\\application.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\core\\application.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\texture_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\managers\\texture_manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\texture_manager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\managers\\texture_manager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\sprite_swapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\managers\\sprite_swapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\rendering\\sprite_renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\rendering\\sprite_renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\ui\\ui_renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\ui\\ui_renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\input\\input_controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\input\\input_controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\entities\\sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAA8C389-C3F3-43B1-BB64-8F2FF9239C15}|SpritesEnAccion.vcxproj|solutionrelative:src\\entities\\sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "texture_manager.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\texture_manager.cpp",
+              "RelativeDocumentMoniker": "src\\managers\\texture_manager.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\texture_manager.cpp",
+              "RelativeToolTip": "src\\managers\\texture_manager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T18:04:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "texture_manager.hpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\texture_manager.hpp",
+              "RelativeDocumentMoniker": "src\\managers\\texture_manager.hpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\texture_manager.hpp",
+              "RelativeToolTip": "src\\managers\\texture_manager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-26T18:04:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sprite_swapper.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\sprite_swapper.cpp",
+              "RelativeDocumentMoniker": "src\\managers\\sprite_swapper.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\managers\\sprite_swapper.cpp",
+              "RelativeToolTip": "src\\managers\\sprite_swapper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T17:56:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "application.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\core\\application.cpp",
+              "RelativeDocumentMoniker": "src\\core\\application.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\core\\application.cpp",
+              "RelativeToolTip": "src\\core\\application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T17:52:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "application.hpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\core\\application.hpp",
+              "RelativeDocumentMoniker": "src\\core\\application.hpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\core\\application.hpp",
+              "RelativeToolTip": "src\\core\\application.hpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-26T17:52:58.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sprite_renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\rendering\\sprite_renderer.cpp",
+              "RelativeDocumentMoniker": "src\\rendering\\sprite_renderer.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\rendering\\sprite_renderer.cpp",
+              "RelativeToolTip": "src\\rendering\\sprite_renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T18:04:03.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ui_renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\ui\\ui_renderer.cpp",
+              "RelativeDocumentMoniker": "src\\ui\\ui_renderer.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\ui\\ui_renderer.cpp",
+              "RelativeToolTip": "src\\ui\\ui_renderer.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T18:00:44.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "input_controller.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\input\\input_controller.cpp",
+              "RelativeDocumentMoniker": "src\\input\\input_controller.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\input\\input_controller.cpp",
+              "RelativeToolTip": "src\\input\\input_controller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T17:58:34.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\entities\\sprite.cpp",
+              "RelativeDocumentMoniker": "src\\entities\\sprite.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\entities\\sprite.cpp",
+              "RelativeToolTip": "src\\entities\\sprite.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T17:56:08.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\matia\\source\\repos\\SpritesEnAccion\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T17:40:37.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
